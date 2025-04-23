@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 Beginner developer with passion for technology.<br>📚 Learning C# language.<br>🧠 Seeking knowledge through learning and networking.<br>👨🏽‍💻 Basic Back End.</p>
+<p align="left">🚀 Beginner developer with passion for technology.<br>📚 Learning Html, Css, Js language.<br>🧠 Seeking knowledge through learning and networking.<br>👨🏽‍💻 Basic Front End.</p>
 
 ###
 
