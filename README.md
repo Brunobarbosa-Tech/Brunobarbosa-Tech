@@ -1,10 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&width=435&lines=Be+Welcome!+%F0%9F%91%8B%F0%9F%8F%BD;Hello%2C+my+name+is+Bruno+Barbosa;Student+at+Senac+internet+systems)](https://git.io/typing-svg)
+
+###
 <div align="center">
   <img height="200" src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQxNzM4OTYsIm5iZiI6MTc1NDE3MzU5NiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODAyVDIyMjYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM3MzM1Zjk3Yzg0MWRlNWUxOTU0ZDBhMTNhNWU0ZDgzYjFkODQxNGE3NDJkZWFkZTYwOTdiZWZmMGE2MjhjNTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.oEISG_q2xprgCJPA16YURelc83h7uMF3YTNXgppUvbM"  />
 </div>
-
-###
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=40&pause=1000&color=73FF41&center=true&vCenter=true&width=600&lines=Be+Welcome!+%F0%9F%91%8B%F0%9F%8F%BD;Hello%2C+my+name+is+Bruno+Barbosa;Student+of+Systems+for+Internet+at+Senac;Always+learning+and+evolving!)](https://git.io/typing-svg)
 
 ###
 
