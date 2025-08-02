@@ -1,4 +1,102 @@
+<div align="center">
+  <img height="200" src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQxNzM4OTYsIm5iZiI6MTc1NDE3MzU5NiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODAyVDIyMjYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM3MzM1Zjk3Yzg0MWRlNWUxOTU0ZDBhMTNhNWU0ZDgzYjFkODQxNGE3NDJkZWFkZTYwOTdiZWZmMGE2MjhjNTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.oEISG_q2xprgCJPA16YURelc83h7uMF3YTNXgppUvbM"  />
+</div>
+
+###
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=24&pause=1000&color=73FF41&center=true&vCenter=true&width=435&lines=Be+Welcome!+%F0%9F%91%8B%F0%9F%8F%BD;Hello%2C+My+Name+is+Bruno+Barbosa;Student+System+for+Internet+Senac)](https://git.io/typing-svg)
 
+###
 
+<h6 align="center">Passionate about technology and design, I'm constantly striving for improvement.<br>Every day, I strive to evolve as a developer and as a person, learning, creating, and challenging myself.<br>I believe that with dedication, organization, and strong connections, evolution is inevitable.</h6>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Brunobarbosa-tech.Brunobarbosa-tech&"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+  <a href="https://canary.discord.com/channels/@Bruno_Tech" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/bruuno_tech/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="250" src="https://camo.githubusercontent.com/9aa0981f88dc09c2d8efbde8c9bd8c9d3e14f506f696833bbb9e617d6838f4f6/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4d617468657573416c766172657a267468656d653d64726163756c6126726f773d32266e6f2d62673d7472756526636f6c756d6e3d33266d617267696e2d773d3135266d617267696e2d683d3135"  />
+</div>
+
+###
+
+<h2 align="center">💻 Technologies and Languages</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50" alt="wordpress logo"  />
+</div>
+
+###
+
+<h2 align="center">⚙Frameworks & Libraries</h2>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="50" alt="bootstrap logo"  />
+</div>
+
+###
+
+<h2 align="center">🎨 Visual Design Tools</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo"  />
+</div>
+
+###
+
+<h2 align="center">🛠 Development Tools</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brunobarbosa-tech/Brunobarbosa-tech/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brunobarbosa-tech/Brunobarbosa-tech/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Brunobarbosa-tech/Brunobarbosa-tech/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
