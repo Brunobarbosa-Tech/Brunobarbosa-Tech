@@ -10,8 +10,9 @@
 
 ###
 
+
 <div align="center">
-  <img height="200" src="https://private-user-images.githubusercontent.com/74038190/250967624-b3fef2db-e671-4610-bb84-1d65533dc5fb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQyNDQxMDEsIm5iZiI6MTc1NDI0MzgwMSwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MjQtYjNmZWYyZGItZTY3MS00NjEwLWJiODQtMWQ2NTUzM2RjNWZiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODAzVDE3NTY0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcyMThkYzFlMzFiMGUwZjg3ZTZjNDYwNWVkZjFhZDdlMTAwN2QxOWM0MmIxYzAwYmI3N2RmYjJkOTk5ZDQ5ZWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ejWXeHbO-kcRcTVMq3dPKvWt6lGKB-56XmVknfFektc"  />
+  <img height="200" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=36BCF7FF"  />
 </div>
 
 ###
@@ -36,6 +37,10 @@
 
 ###
 
+<img align="right" height="200" src="https://private-user-images.githubusercontent.com/74038190/250967624-b3fef2db-e671-4610-bb84-1d65533dc5fb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQyNDQxMDEsIm5iZiI6MTc1NDI0MzgwMSwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MjQtYjNmZWYyZGItZTY3MS00NjEwLWJiODQtMWQ2NTUzM2RjNWZiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODAzVDE3NTY0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcyMThkYzFlMzFiMGUwZjg3ZTZjNDYwNWVkZjFhZDdlMTAwN2QxOWM0MmIxYzAwYmI3N2RmYjJkOTk5ZDQ5ZWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ejWXeHbO-kcRcTVMq3dPKvWt6lGKB-56XmVknfFektc"  />
+
+###
+
 <h3 align="left">About Me 👨🏽‍💻</h3>
 
 ###
@@ -49,6 +54,12 @@
 ###
 
 <h4 align="left">🚀 Starting developer with a passion for technology and design.<br>🧠 Seeking knowledge and daily growth.<br>🎨 Focused on Front-End and creative interfaces.</h4>
+
+###
+
+<div align="center">
+  <img height="20" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
+</div>
 
 ###
 
@@ -116,12 +127,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQxNzM4OTYsIm5iZiI6MTc1NDE3MzU5NiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODAyVDIyMjYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM3MzM1Zjk3Yzg0MWRlNWUxOTU0ZDBhMTNhNWU0ZDgzYjFkODQxNGE3NDJkZWFkZTYwOTdiZWZmMGE2MjhjNTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.oEISG_q2xprgCJPA16YURelc83h7uMF3YTNXgppUvbM"  />
 </div>
 
 ###
