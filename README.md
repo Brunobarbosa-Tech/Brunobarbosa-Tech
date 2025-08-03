@@ -10,13 +10,6 @@
 
 ###
 
-
-<div align="center">
-  <img height="200" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=36BCF7FF"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Brunobarbosa-tech.Brunobarbosa-tech&"  />
 </div>
